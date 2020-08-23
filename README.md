@@ -22,7 +22,7 @@ const alex = {
 ```
 <img align='right' src="https://media.giphy.com/media/yU0vrGBTI6TKg/giphy.gif" width="100%">
 
-<img src="https://media.giphy.com/media/Yqiw4XZ1LhMRRCL2ZO/giphy.gif" width="60"> <em><b>I love connecting with all over the world!</b> :-)</em>
-Stay Strong.
+<img src="https://media.giphy.com/media/Yqiw4XZ1LhMRRCL2ZO/giphy.gif" width="60"> <em><b>I love connecting with all over the world!</b></em>
+💜 Stay Strong.
 
 ---
